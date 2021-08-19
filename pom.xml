@@ -48,7 +48,6 @@
         <artifactId>azure-webapp-maven-plugin</artifactId>
         <version>2.1.0</version>
         <configuration>
-          <schemaVersion>v2</schemaVersion>
           <subscriptionId>0fbed7e1-1260-44e4-8bbf-7ccb64c25aa6</subscriptionId>
           <resourceGroup>vkmtestwebapprg</resourceGroup>
           <appName>vkmtestwebappwind1</appName>
